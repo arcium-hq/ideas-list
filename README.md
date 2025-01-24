@@ -5,3 +5,4 @@
 - Confidential Voting
 - Sealed Bid Auctions
 - Confidential Voting for Permissionless Prediction Markets
+- Federated Learning Logistic Regression
