@@ -8,4 +8,4 @@
 - [Confidential AI on Sensitive Data](ideas/confidential_ai_on_sensitive_data.md)
 - [Confidential Matchmaking](ideas/confidential_matchmaking.md)
 
-Reach out to us on [Discord](https://discord.com/invite/arcium) for private testnet access!
+Check out our [Developer Docs](https://docs.arcium.com/developers) to get started building with Arcium! Reach out to us on [Discord](https://discord.com/invite/arcium) for support. 
