@@ -8,7 +8,7 @@ Current implementations rely on centralized randomness sources or transparent on
 
 ## High-level Technical Design
 
-Users deposit stablecoins into a shared pool that generates yield through DeFi strategies. The accumulated yield from all deposits is distributed as prizes through regular draws using MPC-generated randomness. This pooled approach creates significantly larger prize opportunities than individual savings - while a single user might earn 5% APY on their $100 deposit ($5/year), the pooled yield from thousands of participants creates prizes worth thousands of dollars. Participants who don't win prizes receive only their principal back, while winners receive their principal plus the accumulated yield as prizes.
+Users deposit stablecoins into a shared pool that generates yield through low-risk DeFi strategies. The deposited funds are deployed into lending/borrowing protocols, vaults, or yield optimizers like Lulo or Breeze to preserve principal while generating returns. The accumulated yield from all deposits is distributed as prizes through regular draws using MPC-generated randomness. This pooled approach creates significantly larger prize opportunities than individual savings - while a single user might earn 5% APY on their $100 deposit ($5/year), the pooled yield from thousands of participants creates prizes worth thousands of dollars. Participants who don't win prizes receive only their principal back, while winners receive their principal plus the accumulated yield as prizes.
 
 ## Why is it only possible with Arcium
 
